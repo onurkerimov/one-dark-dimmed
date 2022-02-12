@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-dimmed",
+    "displayName": "One Dark Dimmed",
+    "description": "Modified version of Atom One Dark theme, with same syntax colors but different panel colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Dimmed-color-theme.json"
+            }
+        ]
+    }
+}
