@@ -8,5 +8,6 @@ Below is my favorite compact configuration to use this theme.
 
 - Hide the activity bar and use "Activitus Bar" extension.
 - Drag Terminal to the sidebar
+- Font: Roboto Mono
 
 ![Preview 2](screen2.png)
